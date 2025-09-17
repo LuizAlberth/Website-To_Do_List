@@ -1,0 +1,7 @@
+To-Do List
+
+The idea is simple: keep track of obligations and use a list to organize your time.
+
+This website will work as a planner, allowing users to add projects or goals and break them down into tasks, while showing their progress toward completion.
+
+The user can enter a project or goal and divide it into tasks however they prefer. Afterwards, tasks can be marked as "completed," "on hold," or "removed." The main purpose is to track progress and ensure that nothing is forgotten.
